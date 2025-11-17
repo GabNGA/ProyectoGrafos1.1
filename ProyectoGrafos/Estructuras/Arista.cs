@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace InnovatecEstructuras
 {
     
-    public class Arista
+    public class Arista     
     {
-        public string Destino { get; set; }
-        public double Peso { get; set; } .
+        public string Destino { get; set; } 
+        public double Peso { get; set; } 
 
         public Arista(string destino, double peso)
         {
