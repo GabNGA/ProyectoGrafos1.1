@@ -1,5 +1,9 @@
-﻿namespace ProyectoGrafos
+﻿using InnovatecEstructuras;
+
+
+namespace ProyectoGrafos
 {
+    
     internal class Program
     {
         static void Main(string[] args)
